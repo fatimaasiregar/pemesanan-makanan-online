@@ -16,8 +16,7 @@ Aplikasi ini merupakan sistem pemesanan makanan secara online dengan berbagai fi
    - Pengguna dapat melihat detail setiap menu sebelum memesan.
 
 3. **CRUD Pesanan**
-   - Pengguna dapat membuat pesanan baru.
-   - Mengedit atau menghapus pesanan yang sudah dibuat.
+   - Pengguna dapat menghapus pesanan yang sudah dibuat.
 
 4. **Pagination**
    - Daftar menu ditampilkan dengan pagination untuk memudahkan navigasi.
@@ -57,9 +56,9 @@ Aplikasi ini merupakan sistem pemesanan makanan secara online dengan berbagai fi
 ---
 
 ## Teknologi yang Digunakan
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Express.js / Spring Boot (opsional)
-- **Database**: PostgreSQL / MySQL (opsional)
+- **Frontend**: React.vite, Tailwind CSS
+- **Backend**: java Spring Boot 
+- **Database**: PostgreSQL 
 - **Tools & Library Lainnya**:
   - Axios (untuk HTTP request)
   - React Router Dom (untuk navigasi)
